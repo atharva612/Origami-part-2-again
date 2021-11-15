@@ -1,0 +1,60 @@
+h1{
+    color:crimson;
+    font-family:monospace
+}
+*{
+    border:double;
+}
+.header{
+    display:flex;
+   justify-content: space-between;
+  background-color:darkseagreen
+
+}
+
+.Cheader{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: darkseagreen;
+}
+
+.colour{
+    color:blue;
+
+}
+
+
+
+
+h2{
+    color:darkcyan;
+    font-family:cursive;
+    background-color: darksalmon;
+  
+    
+}
+
+h3{
+    font-family:monospace
+}
+
+
+a:link{
+    color:crimson;
+
+}
+
+
+a:visited{
+    color:darkcyan;
+    
+}
+
+
+
+
+
+
+
+
+
